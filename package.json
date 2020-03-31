@@ -1,5 +1,5 @@
 {
-  "name": "react-bootstrap-table2-toolkit",
+  "name": "react-bootstrap-table2-toolkit-BOM",
   "version": "2.1.2",
   "description": "The toolkit for react-bootstrap-table2",
   "main": "./lib/index.js",
